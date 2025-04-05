@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "notes": "更新測試",
+  "version": "1.0.0",
+  "notes": "發布正式版系統",
   "pub_date": "2025-04-05T06:34:00+08:00",
   "platforms": {
     "windows-x86_64": {
