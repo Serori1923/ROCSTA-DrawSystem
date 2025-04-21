@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "UI 小幅更新",
-  "pub_date": "2025-04-08T22:23:00+08:00",
+  "version": "1.0.2",
+  "notes": "UI 小幅更新及錯誤修正",
+  "pub_date": "2025-04-21T23:42:00+08:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNVFmNnFMS0wyK2JNQnZKbzl4MGpzdGN1SjZOSWd2K0szWE9OMDlWZ0ZWdGVZOFZ1SkpYLyt2NzhyNUdZTEY0cXNzR1h3bkxkOFdxWGE4ZmMwMGR4YWkwTmRVS0huWFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0MTIyMDI4CWZpbGU65Lit6I+v5rCR5ZyL6YGL5YuV6KiT57e05Y2U5pyD5q+U6LO95bCI5qWt5oq957Gk57O757WxXzEuMC4xX3g2NC1zZXR1cC5leGUKc3VQRHhPelRLOGc1L3YraGhQbUdnRkY1RW5uVnNSNHBGN1VRNjNtVS9PRURLRnFPY0l5Rzc4b0hkVWVneVZnNXNqNThWVWlzaWp2OThld2RKVytHQUE9PQo=",
-      "url": "https://github.com/Serori1923/ROCSTA-DrawSystem/releases/download/v1.0.1/1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNVFmNnFMS0wyK1gxNkl2aWFsSTV5VUQ4bWdJQUN6VGZQYUZGYkZqTldLVER6YUF1SVIweW5oemxJL2hwSFI0ZjhLMW4wdUtEQTZBWVJ0bTQzb2lOYnhoVllSbjFiSlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ1MjQ5OTY4CWZpbGU65Lit6I+v5rCR5ZyL6YGL5YuV6KiT57e05Y2U5pyD5q+U6LO95bCI5qWt5oq957Gk57O757WxXzEuMC4yX3g2NC1zZXR1cC5leGUKZTdLbEh4WitrVkV1Y0NHWDNKbCtwb09Pd3c1YXI4RDRoSnI3ajJzOGdES0NXVWFtYzJBUkFzSktjZCt5MUFOQmliVmhDNXRnN0tUL2ZCczR2ZVpUREE9PQo=",
+      "url": "https://github.com/Serori1923/ROCSTA-DrawSystem/releases/download/v1.0.2/1.0.2_x64-setup.exe"
     }
   }
 }
